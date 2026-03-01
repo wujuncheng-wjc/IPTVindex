@@ -1,7 +1,12 @@
 {
     "urls": [
-        { "url": "http://tvbox.王二小放牛娃.top/", "name": "王二小" },
+        { "url": "http://tvbox.王二小放牛娃.top", "name": "王二小" },
+        { "url": "https://9280.kstore.vip/newwex.json", "name": "王二小新" },
         { "url": "http://www.饭太硬.com/tv", "name": "饭太硬" },
+        { "url": "http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json", "name": "小米" },
+        { "url": "http://ok213.top/tv", "name": "jack老师" },
+        { "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "技巧" },
+        { "url": "https://gh-proxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json", "name": "南风" },
         { "url": "http://肥猫.com/", "name": "肥猫" },
         { "url": "https://raw.liucn.cc/box/m.json", "name": "liucn" },
         { "url": "http://rihou.cc:555/nzk/nzk0722.json", "name": "D佬" },
